@@ -1,4 +1,4 @@
-# django-react_app
+# django-react
 # Misterije gljivarenja
 
 ## Cilj
@@ -8,3 +8,6 @@ Ovaj web app predstavlja jedan osnovni mix djanga i reacta. Django framework je 
 
 ![](demo1.gif)
 
+![](demo2.gif)
+
+![](demo3.gif)
