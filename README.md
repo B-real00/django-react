@@ -1,4 +1,4 @@
-# django-react_app
+# django-react
 # Misterije gljivarenja
 
 ## Cilj
