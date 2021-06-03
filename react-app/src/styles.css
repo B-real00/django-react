@@ -1,0 +1,14 @@
+.alice-carousel ul li img {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.con {
+  align-items: center;
+}
+
+.gallery-wrapper .alice-carousel {
+  max-width: 80%;
+  margin: 0 auto;
+}
